@@ -107,7 +107,7 @@ class ChangingBG: UIImageView {
     
     class func getEmitterCells(with image: UIImage) -> [CAEmitterCell] {
         
-        
+        //
         var cells = [CAEmitterCell]()
         let cell = CAEmitterCell()
         cell.contents = image.cgImage

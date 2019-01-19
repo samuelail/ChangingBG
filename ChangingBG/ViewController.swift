@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         super.viewDidAppear(animated)
         //optional
         background.initialize()
-        //optional
+        //optional 
         releaseHearts()
     }
     
